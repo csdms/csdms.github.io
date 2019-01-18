@@ -50,7 +50,6 @@ table {
   box-sizing: border-box; }
 
 html {
-  background: url(../assets/LandlabClarence.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -80,7 +79,8 @@ img:after {
   clear: both; }
 
 .logo {
-  width: 20vw; }
+  width: 20vw;
+  transform: translate(0, 100%) }
 
 nav {
   position: relative;
@@ -110,7 +110,7 @@ nav {
 
 .background {
   margin-top: 10vmin;
-  background-color: rgba(246, 247, 196, 0.5);
+  background-color: rgba(255, 255, 255, 0.8);
   padding: 1vw 6vw; }
 
 .white {
@@ -193,4 +193,4 @@ button {
   border-color: #FA787E; }
 
 input.ng-invalid.ng-touched {
-  background-color: #FA787E; }
+  background-color: rgba(255, 255, 255, 0.8); }
