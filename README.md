@@ -2,7 +2,7 @@
 
 The CSDMS home on GitHub, https://csdms.github.io.
 
-Products:
+**Products**
 
-* [Landlab](https://csdms.github.io/landlab)
-* [PyMT](https://csdms.github.io/pymt)
+* Landlab: https://csdms.github.io/landlab
+* PyMT: https://csdms.github.io/pymt
