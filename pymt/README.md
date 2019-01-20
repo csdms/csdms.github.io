@@ -1,5 +1,6 @@
-# landlab.github.io
-Repository for Landlab's website http://landlab.github.io
+# csdms.github.io/pymt
+
+Repository for the PyMT home page, http://csdms.github.io/pymt.
 
 ## To develop locally
 
@@ -35,7 +36,7 @@ The content inside the tags is plain text and easy to edit.
 If you need to add an image, add the image file to the assets folder and, in the HTML, reference the path to it in the `src` attribute of an `<img />` tag.
 
 ```
-<img src="../assets/Landlab-logo.png" alt="Landlab logo">
+<img src="../assets/pymt-logo-header-text.png" alt="PyMT logo">
 ```
 
 ## To run locally and see your changes
@@ -79,4 +80,4 @@ see the results of your local code in a browser window at:<br>
 When you are happy with the results, `git add` and `git commit` your changes. Then push your branch up to the remote repository on GitHub<br>
 `git push origin <your-branch-name>`
 
-From the repository on GitHub, make a Pull Request to master. Once your changes are merged into master, they will be live on `https://landlab.github.io`.
+From the repository on GitHub, make a Pull Request to master. Once your changes are merged into master, they will be live on `https://csdms.github.io/pymt`.
