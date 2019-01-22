@@ -79,7 +79,8 @@ img:after {
   clear: both; }
 
 .logo {
-  width: 20vw; }
+  width: 20vw;
+  transform: translate(0, 45%) }
 
 nav {
   position: relative;
