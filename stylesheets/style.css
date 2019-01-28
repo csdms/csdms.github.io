@@ -72,14 +72,18 @@ header .white {
   top: 12.6vw;
   margin-left: 20.5vw; }
 
-img {
-  float: left; }
+img {}
 
 img:after {
   clear: both; }
 
+.organization {
+    width: 75%;
+    transform: translate(15%, 0) }
+
 .logo {
   width: 20vw;
+  float: left;
   transform: translate(0, 50%) }
 
 nav {
