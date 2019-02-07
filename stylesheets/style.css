@@ -81,15 +81,10 @@ img:after {
     width: 75%;
     transform: translate(15%, 0) }
 
-.pymt-logo {
-  width: 20vw;
+.logo {
+  width: 25vw;
   float: left;
-  transform: translate(-5%, 20%) }
-
-.landlab-logo {
-  width: 20vw;
-  float: left;
-  transform: translate(-5%, 50%) }
+  transform: translate(5%, 22.5%) }
 
 nav {
   position: relative;
